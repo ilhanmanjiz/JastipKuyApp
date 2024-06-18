@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328598911059",
+    "project_id": "jastip-kuy-7f46nz",
+    "storage_bucket": "jastip-kuy-7f46nz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328598911059:android:9ba9ca059a119048892ea6",
+        "android_client_info": {
+          "package_name": "com.mycompany.jastipkuy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNdvCoMKIDcF1OaAKc-qEqYGnV97TmMtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
