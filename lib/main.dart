@@ -1,5 +1,9 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
+<<<<<<< HEAD
+=======
+
+>>>>>>> eda47334c319888b840a33584c6ba88e65d773b7
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_web_plugins/url_strategy.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -11,7 +15,10 @@ import 'flutter_flow/flutter_flow_theme.dart';
 import 'flutter_flow/flutter_flow_util.dart';
 import 'flutter_flow/nav/nav.dart';
 import 'index.dart';
+<<<<<<< HEAD
 import 'pages/date_input_page.dart'; // Import the new page
+=======
+>>>>>>> eda47334c319888b840a33584c6ba88e65d773b7
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -95,6 +102,7 @@ class _MyAppState extends State<MyApp> {
     );
   }
 }
+<<<<<<< HEAD
 
 RouteBase createRouter(AppStateNotifier appStateNotifier) {
   return GoRouter(
@@ -139,3 +147,5 @@ class MyHomePage extends StatelessWidget {
     );
   }
 }
+=======
+>>>>>>> eda47334c319888b840a33584c6ba88e65d773b7
